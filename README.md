@@ -1,3 +1,12 @@
+# PyTorch Virtual Environment
+```
+conda create -n python-deep-3rd python=3.9
+conda activate python-deep-3rd
+pip install torch==2.0.1
+pip install pandas
+pip install numpy==1.26.4
+```
+
 # Python Deep Learning - Third Edition
 
 <a href="https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505"><img src="https://content.packt.com/B19627/cover_image_small.jpg" alt="Python Deep Learning - Third Edition" height="256px" align="right"></a>
