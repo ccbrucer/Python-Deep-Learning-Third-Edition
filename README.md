@@ -2,9 +2,8 @@
 ```
 conda create -n python-deep-3rd python=3.9
 conda activate python-deep-3rd
-pip install torch==2.0.1
+pip install torch==2.0.1 numpy==1.26.4 torchvision==0.15.2
 pip install pandas
-pip install numpy==1.26.4
 ```
 
 # Python Deep Learning - Third Edition
